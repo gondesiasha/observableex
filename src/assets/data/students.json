@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "name":"asha",
+        "marks":50
+    },
+    
+    {
+        "id":2,
+        "name":"ayisha",
+        "marks":60
+    },
+    
+    {
+        "id":3,
+        "name":"alisha",
+       "marks":70
+    }
+]
